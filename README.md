@@ -1,4 +1,3 @@
-# EP1000
 <html>
 	<head>
 		<title>EP1000</title>
