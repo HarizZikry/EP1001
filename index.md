@@ -7,11 +7,11 @@ This page was created for me to record what I have done for this module and prog
 |--------|:------------------------------------------------|
 | <img src="IMG_20200201_203425_124.jpg" height="200">  | 	My name is Hariz from DME/2A/06. My telegram ID is H4r1zz. I stay in Pasir Ris |
 # Topics that will be covered
-- [Fablab Safety](../fablab_safety)
-- [Project Development](../blob/master/LICENSE)
-- [Web Development](../blob/master/LICENSE)
-- [Computer Aided Design](../blob/master/LICENSE)
-- [3D Printing](../blob/master/LICENSE)
-- [Computer Conrolled Cutting](../blob/master/LICENSE)
-- [Embedded Programming](../blob/master/LICENSE)
-# [Final Project](../blob/master/LICENSE)
+- [Fablab Safety](fablab_safety.md)
+- [Project Development]()
+- [Web Development]()
+- [Computer Aided Design]()
+- [3D Printing]()
+- [Computer Conrolled Cutting]()
+- [Embedded Programming]()
+# [Final Project]()
