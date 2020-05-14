@@ -14,19 +14,19 @@
 5. Commit change
 ![](/images/commit_change2.png)
 
-5. Publish it on Github
+6. Publish it on Github
 ![](/images/publish.png)
 
-6. Examine the repository on Github
+7. Examine the repository on Github
 ![](/images/repository.png)
 
-7. Extract the lost data from history
+8. Extract the lost data from history
 ![](/images/extract.png)
 
-8. Select "revert this commit"
+9. Select "revert this commit"
 ![](/images/revert.png)
 
-9. Publish it
+10. Publish it
 
-10. View changes on Github
+11. View changes on Github
 ![](/images/final.png)
