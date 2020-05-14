@@ -5,7 +5,7 @@ This page was created for me to record what I have done for this module and prog
 
 |        |                                                 |
 |--------|:------------------------------------------------|
-| <img src="/images/IMG_20200201_203425_124.jpg" height="200">  | 	My name is Hariz from DME/2A/06.<br>My telegram ID is H4r1zz. I stay in Pasir Ris |
+| ![](/images/IMG_20200201_203425_124.jpg)  | 	My name is Hariz from DME/2A/06.<br>My telegram ID is H4r1zz. I stay in Pasir Ris |
 
 # Topics that will be covered
 - [Fablab Safety](fablab_safety.md)
@@ -16,3 +16,4 @@ This page was created for me to record what I have done for this module and prog
 - [Computer Conrolled Cutting]()
 - [Embedded Programming]()
 # [Final Project]()
+/images/IMG_20200201_203425_124.jpg
