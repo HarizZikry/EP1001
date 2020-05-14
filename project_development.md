@@ -9,6 +9,7 @@ It enables users to manage any changes to websites, documents, etc.
 ## How to get started
 1. Install git/Github Desktop
 2. Implementing version control
+
   - **Existing repository**
     1. Click "clone your repository"
     2. Select "Github.com"
