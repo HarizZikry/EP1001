@@ -1,7 +1,6 @@
 # Demonstration
 1. **Create a new repository**
 
-<img src="/images/create_repository.png" width="960" height="540">
 ![](/images/create_repository.png)
 
 2. **Add a paragraph of text**
