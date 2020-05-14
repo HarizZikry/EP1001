@@ -16,4 +16,3 @@ This page was created for me to record what I have done for this module and prog
 - [Computer Conrolled Cutting]()
 - [Embedded Programming]()
 # [Final Project]()
-/images/IMG_20200201_203425_124.jpg
