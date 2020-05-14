@@ -5,7 +5,7 @@ It enables users to manage any changes to websites, documents, etc.
 - It is a more efficient way to keep track of changes
 - It allows you to make changes with ease
 - You are able to compare versions of your work
-- It is good for group projects as your team will be able to collaborate better
+
 ## How to get started
 1. Install git/Github Desktop
 2. Implementing version control
@@ -18,4 +18,5 @@ It enables users to manage any changes to websites, documents, etc.
     2. Fill out the fields
     3. Click create repository
 3. You now have version control on your repository
+
 ## [Demo](demonstration.md)
