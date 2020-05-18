@@ -1,8 +1,8 @@
 # Name Tag
 
-<img src="/images/nametag.png" style="width:480px;height:270px;">
+<img src="/EP1000/images/nametag.png" style="width:480px;height:270px;">
 
-<img src="/images/nametag_top.png" style="width:480px;height:270px;">
+<img src="/EP1000/images/nametag_top.png" style="width:480px;height:270px;">
 
 ## How I created the design
 1. Sketch the main shape

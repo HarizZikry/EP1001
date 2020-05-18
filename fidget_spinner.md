@@ -1,8 +1,8 @@
 # Fidget Spinner
 
-<img src="/images/fidget_spinner.png" style="width:480px;height:270px;">
+<img src="/EP1000/images/fidget_spinner.png" style="width:480px;height:270px;">
 
-<img src="/images/fidget_spinner_top.png" style="width:480px;height:270px;">
+<img src="/EP1000/images/fidget_spinner_top.png" style="width:480px;height:270px;">
 
 ## How I created the Design
 1. Sketch the outline of the bearing on the origin
