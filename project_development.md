@@ -4,7 +4,7 @@ After creating our webpage on Github, we were introduced to git which is a versi
 
 # Git
 
-git is a free and poen-source distributed version control system. The good thing about git is that it supports both command-line interface and graphic user interface, great for beginners.
+git is a free and open-source distributed version control system. The good thing about git is that it supports both command-line interface and graphic user interface, great for beginners.
 
 ## How it works
 
