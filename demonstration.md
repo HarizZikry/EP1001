@@ -18,8 +18,6 @@
 
 - Similar to the previous step, I commit the change
 
-![](/images/commit_change2.png)
-
 - When I am satisfied with the paragraph, I publish the file to github
 
 ![](/images/publish.png)
