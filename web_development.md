@@ -16,6 +16,7 @@ Github is used to publish our webpage. First, we had to create a [github](https:
 
 ## Markdown
 
-I was introduced to markdown by my lecterer. It is another way of editing your webpage. I find it easier to edit my webpage using markdown than html. Also, markdown is supported by github. I am able to use html codes in markdown language. Although the website may look simple and bare, I would still prefer markdown as it allows me to quickly edit my webpage with minimal time spent. I would recommed markdown to those who are looking for simplicity and efficiency.
+I was introduced to markdown by my lecterer. It is another way of editing your webpage. I find it easier to edit my webpage using markdown than html. Also, markdown is supported by github. I am able to use html codes in markdown language. Although the website may look simple and bare, I would still prefer markdown as it allows me to quickly edit my webpage with minimal time spent. I would recommend markdown to those who are looking for simplicity and efficiency.
 
+**This is an example of markdown code**
 ![This is the code for the main webpage](/images/code_mp.png)
