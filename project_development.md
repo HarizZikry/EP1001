@@ -1,23 +1,15 @@
 # Project Development
-## Version Control
-It enables users to manage any changes to websites, documents, etc.
-## Why Version Contol?
-- It is a more efficient way to keep track of changes
-- It allows you to make changes with ease
-- You are able to compare versions of your work
 
-## How to get started
-1. Install git/Github Desktop
-2. Implementing version control
+After creating our webpage on Github, we were introduced to git which is a version control system. We need it to manage any changes to our websites. It allows us to keep track of changes, compare versions and revert back to previous versions. We were tasked to install git and converting our repository to version control system.
 
-  - **Existing repository**
-    1. Click "clone your repository"
-    2. Select "Github.com"
-    3. Copy your repository link
-  - **New repository**
-    1. Click "Create a new repository"
-    2. Fill out the fields
-    3. Click create repository
-3. You now have version control on your repository
+# Git
+
+git is a free and poen-source distributed version control system. The good thing about git is that it supports both command-line interface and graphic user interface, great for beginners.
+
+## How it works
+
+<img src="/EP1000/images/git_diagram.jpg" style="width:480px;height:270px;">
+
+First, we use git clone to clone our repository to git. Then we use git init to initialise a local folder for git. This means that you will have your repository stored in your local drive. When we want to start editing our repository, we use git pull which will bring down a current version of our repository. Now, we can start editing our repository. Whenever we add, remove or update files, the changes will be stored in the staging area. When we are satisfied with the changes, we use git commit which will move files from staging are to local repo. To put it in our repository on github we use git push, copying the files from local repo to remote repo.
 
 ## [Demo](demonstration.md)
