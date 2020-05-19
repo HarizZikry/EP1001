@@ -1,42 +1,41 @@
 # Demonstration
-- **Create a new repository** <br>
+
+- I Create a new repository as an example.
 
 ![](/images/create_repository.png)
 
-- **Add a paragraph of text** <br>
+- Using Atom, I add a paragraph in "readme.md"
 
 ![](/images/add_paragraph.png)
 
-- **Commit change** <br>
+- I commit the change to update the file
 
 ![](/images/commit_change.png)
 
-- **Replace the paragraph of text** <br>
+- I then replace the paragraph with a second one
 
 ![](/images/replace_paragraph.png)
 
-- **Commit change** <br>
+- Similar to the previous step, I commit the change
 
 ![](/images/commit_change2.png)
 
-- **Publish it on Github** <br>
+- When I am satisfied with the paragraph, I publish the file to github
 
 ![](/images/publish.png)
 
-- **Examine the repository on Github** <br>
+- Here is a screenshot of the repository. It shows the second paragraph.
 
 ![](/images/repository.png)
 
-- **Extract the lost data from history** <br>
+- I decided to go with the first paragraph, so in git I browse the history and search for the commit with the first paragraph
 
 ![](/images/extract.png)
 
-- **Select "revert this commit"** <br>
+- I right clicked on the commit and select "revert to this commit". This means that I will get back the first paragraph.
 
 ![](/images/revert.png)
 
-- **Publish it** <br>
-
-- **View changes on Github** <br>
+- I publish the new file to github. Now you can see the last paragraph in the repository
 
 ![](/images/final.png)
