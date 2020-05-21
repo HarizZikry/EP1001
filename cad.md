@@ -6,6 +6,7 @@
 - [Name Tag](name_tag.md)
 - [Fidget Spinner](fidget_spinner.md)
 - [Revolution exercise](revolution_exercise.md)
+- [Chess Knight](chess_knight.md)
 
 ## Gimp
 [Legendary](/images/lengendary.png)
