@@ -4,12 +4,8 @@
 
 <img src="/EP1000/images/nametag_top.png" style="width:480px;height:270px;">
 
-## How I created the design
-1. Sketch the main shape
-2. Offset the shapes
-3. Extrude
-4. Create new sketch on face of rectangle
-5. Add text
-6. Extrude
+I begin by drawing a rectangle with dimensions 50mm by 20mm on the origin. I added an eclipse on 1 side of the rectangle, 20mm by 13.32mm. After drawing the main shape, I offset it by 2mm. Next I got started on the key ring hole. I draw a small circle with radius 3.75mm, then constraint it to align with the center of the rectangle and dimension it 6.66mm from the side of the rectangle. After that, I created another small circle. First step of extrusion is to extrude the outline by 4mm. Next step is to extrude the inner area by 1mm. To finish it off, I create a new sketch on the inner area to put my name on it and extrude it by 3mm.
 
-**[Click here to download Name Tag](/Fusion360/nametag.f3d)**
+![](/images/nametag_sketch.png)
+
+[Click here to download Name Tag](/Fusion360/nametag.f3d)
