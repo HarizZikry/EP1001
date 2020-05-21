@@ -4,7 +4,8 @@
 - [Exercise 2](Exercise_2.md)
 - [Exercise 3](Exercise_3.md)
 - [Name Tag](name_tag.md)
-- [Fidget Spinner](fidget_spinner.md)<br>
+- [Fidget Spinner](fidget_spinner.md)
+- [Revolution exercise](revolution_exercise.md)
 
 ## Gimp
 [Legendary](/images/lengendary.png)
