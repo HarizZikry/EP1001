@@ -9,4 +9,4 @@
 - [Chess Knight](chess_knight.md)
 
 ## Gimp
-[Legendary](/images/lengendary.png)
+- [Background change](background_change.md)
