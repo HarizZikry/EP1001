@@ -1,6 +1,6 @@
 # Revolution Exercise
 
-![](/images/bowl.png)
+<img src="/EP1000/images/bowl.png" style="width:335px;height:327.5px;"><br>
 
 ## How it's done
 
@@ -10,6 +10,6 @@
 4. Using revolve, select the profile and the axis (Z axis). Check the shape of the bowl.
 5. Fillet the sharp edges
 
-![](/images/bowl_sketch.png)
+<img src="/EP1000/images/bowl_sketch.png" style="width:178.5px;height:339px;"><br>
 
 [Click here to download Bowl](/Fusion360/Bowl.f3d)
