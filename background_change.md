@@ -2,7 +2,7 @@
 
 The goal is to remove the existing background then replace it.
 
-<img src="/EP1000/images/profilepic.png" style="width:500px;height:500px;"><br>
+<img src="/EP1000/images/profilepic.jpg" style="width:500px;height:500px;"><br>
 
 1. Open the image in gimp, then scale to 500 by 500 px.
 2. Select layer > transparency > add alpha channel.
