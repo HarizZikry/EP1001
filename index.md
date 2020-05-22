@@ -5,7 +5,7 @@ This page was created for me to record what I have done for this module and prog
 
 |        |                                                 |
 |--------|:------------------------------------------------|
-| ![](/images/profilepic.jpg)  | 	My name is Hariz from DME/2A/06.<br>My telegram ID is H4r1zz. I stay in Pasir Ris |
+| <img src="/EP1000/images/profilepic.jpg" style="width:200px;height:200px;"><br>  | 	My name is Hariz from DME/2A/06.<br>My telegram ID is H4r1zz. I stay in Pasir Ris |
 
 # Topics that will be covered
 - [Fablab Safety](fablab_safety.md)
