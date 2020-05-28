@@ -7,6 +7,7 @@
 - [Fidget Spinner](fidget_spinner.md)
 - [Revolution exercise](revolution_exercise.md)
 - [Chess Knight](chess_knight.md)
+- [Laptop Stand](laptop_stand.md)
 
 ## Gimp
 - [Background change](background_change.md)
