@@ -8,6 +8,7 @@
 - [Revolution exercise](revolution_exercise.md)
 - [Chess Knight](chess_knight.md)
 - [Laptop Stand](laptop_stand.md)
+- [Mask Holder](mask_holder.md)
 
 ## Gimp
 - [Background change](background_change.md)
