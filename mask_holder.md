@@ -6,7 +6,9 @@
 - Create new sketch and draw rectangle on the origin. Dimension the rectangle using parameters
 - Add circles on the sides of rectangle. Trim off the circle and the length of rectangle
 - I'm going to use lines to form 1/4 of the shape, then dimension it. Use the mirror tool and add to remaining quarters. Fillet the sharp edges
+
 <img src="/EP1000/images/maskholder_sketch.png" style="width:205,25px;height:141.5px;">
+
 - Extrude it with thickness of 1mm
 
 [Mask Holder](Mask holder.f3d)
