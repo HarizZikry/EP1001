@@ -2,38 +2,38 @@
 
 - I Create a new repository as an example.
 
-![](/images/create_repository.png)
+![](/images/RepositoryExample/create_repository.png)
 
 - Using Atom, I add a paragraph in "readme.md" and save the file.
 
-![](/images/add_paragraph.png)
+![](/images/RepositoryExample/add_paragraph.png)
 
 - The change will appear in git. Git will ask you to commit the change with a description. I commit the change to update the file.
 
-![](/images/commit_change.png)
+![](/images/RepositoryExample/commit_change.png)
 
 - I then replace the paragraph with a second one, save the file.
 
-![](/images/replace_paragraph.png)
+![](/images/RepositoryExample/replace_paragraph.png)
 
 - Similar to the previous step, I commit the change
 
 - When I am satisfied with the paragraph, I publish the file to github.
 
-![](/images/publish.png)
+![](/images/RepositoryExample/publish.png)
 
 - Here is a screenshot of the repository. It shows the second paragraph.
 
-![](/images/repository.png)
+![](/images/RepositoryExample/repository.png)
 
 - I decided to go with the first paragraph, so in git I browse the history and search for the commit with the first paragraph.
 
-![](/images/extract.png)
+![](/images/RepositoryExample/extract.png)
 
 - I right clicked on the commit and select "revert to this commit". This means that I will get back the first paragraph.
 
-![](/images/revert.png)
+![](/images/RepositoryExample/revert.png)
 
 - I publish the new file to github. Now you can see the last paragraph in the repository.
 
-![](/images/final.png)
+![](/images/RepositoryExample/final.png)
