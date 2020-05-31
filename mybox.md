@@ -39,7 +39,7 @@
 - Extrude
 - New sketch on top face. Draw small rectangle, this is the handle. Dimension it then extrude
 
-I can't really explain how it opens and closes so here is visual
+I can't really explain how it opens and closes so here is [visual](https://youtu.be/Yc6Lb8bLGpo)
 
 ### Why use parameters
 
