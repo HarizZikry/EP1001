@@ -1,5 +1,11 @@
 # My Box
 
+<img src="/EP1000/images/MyBox/mybox_close.png" style="width:172.75px;height:173.75px;"><img src="/EP1000/images/MyBox/mybox_open.png" style="width:149.25px;height:169.25px;">
+
+I can't really explain how it opens and closes so here is [visual](https://youtu.be/Yc6Lb8bLGpo)
+
+[MyBox](MyBox.f3d)
+
 ## Step 1: Front
 
 <img src="/EP1000/images/MyBox/mybox_front.png" style="width:180.75px;height:148px;">
@@ -39,9 +45,7 @@
 - Extrude
 - New sketch on top face. Draw small rectangle, this is the handle. Dimension it then extrude
 
-I can't really explain how it opens and closes so here is [visual](https://youtu.be/Yc6Lb8bLGpo)
-
-### Why use parameters
+## Why use parameters
 
 |    3mm thickness    |       5mm thickness        |
 |--------|:------------------------------------------------|
