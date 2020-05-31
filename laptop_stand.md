@@ -1,12 +1,12 @@
 # Laptop Stand
 
-<img src="/EP1000/images/laptop.png" style="width:163.5px;height:128.25px;"><img src="/EP1000/images/stand.png" style="width:181.75px;height:179.5px;">
+<img src="/EP1000/images/LaptopStand/laptop.png" style="width:163.5px;height:128.25px;"><img src="/EP1000/images/LaptopStand/stand.png" style="width:181.75px;height:179.5px;">
 
 [Laptop Stand](Fusion360/Laptop stand.f3d)
 
 ## Step 1: Legs
 
-<img src="/EP1000/images/leg_sketch.png" style="width:222.5px;height:110.75px;"><img src="/EP1000/images/leg.png" style="width:234.75px;height:170.25px;">
+<img src="/EP1000/images/LaptopStand/leg_sketch.png" style="width:222.5px;height:110.75px;"><img src="/EP1000/images/LaptopStand/leg.png" style="width:234.75px;height:170.25px;">
 
 - Plan out the dimensions
 - Create new component
@@ -18,7 +18,7 @@
 
 ## Step 2: Top
 
-<img src="/EP1000/images/top_sketch.png" style="width:218.75px;height:174.5px;"><img src="/EP1000/images/top.png" style="width:240px;height:149.25px;">
+<img src="/EP1000/images/LaptopStand/top_sketch.png" style="width:218.75px;height:174.5px;"><img src="/EP1000/images/top.png" style="width:240px;height:149.25px;">
 
 - Create new component and sketch on the top face of the leg
 - Draw a rectangle across the legs and include the legs into the sketch so that I can use the intersects
@@ -31,7 +31,7 @@
 
 ## Step 3: Support
 
-<img src="/EP1000/images/support_sketch.png" style="width:268.25px;height:75px;">
+<img src="/EP1000/images/LaptopStand/support_sketch.png" style="width:268.25px;height:75px;">
 
 - Create new component and sketch on back face of the Legs
 - Draw rectangle across the legs and include legs and top into the sketch for intersect points
@@ -53,7 +53,7 @@
 
 ## Animation
 
-<img src="/EP1000/images/animation.png" style="width:316px;height:211.75px;">
+<img src="/EP1000/images/LaptopStand/LaptopStand_animation.png" style="width:316px;height:211.75px;">
 
 It can be used to show different parts of the build through a video. It is fairly simple to use.
 - Under design tab, open up animation
