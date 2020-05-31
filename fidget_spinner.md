@@ -1,8 +1,8 @@
 # Fidget Spinner
 
-<img src="/EP1000/images/fidget_spinner.png" style="width:488.5px;height:359px;">
+<img src="/EP1000/images/FidgetSpinner/fidget_spinner.png" style="width:488.5px;height:359px;">
 
-<img src="/EP1000/images/fidget_spinner_top.png" style="width:380px;height:323px;">
+<img src="/EP1000/images/FidgetSpinner/fidget_spinner_top.png" style="width:380px;height:323px;">
 
 ## How I created the Design
 1. Draw the ABEC 608 Bearing dimensions 8 x 22 x 7 mm on the origin. Draw another circle larger than the outer diameter of the bearing to house it.
@@ -11,6 +11,6 @@
 4. Extrude. I Extrude it by 4 mm in both ways. Don't extrude the bearing and the M8 nuts.
 5. Chamfer the edges to remove sharp edges
 
-<img src="/EP1000/images/fidgetspinner_sketch.png" style="width:380px;height:372.5px;"><br>
+<img src="/EP1000/images/FidgetSpinner/fidgetspinner_sketch.png" style="width:380px;height:372.5px;"><br>
 
 [Click here to download Fidget Spinner](/Fusion360/fidget Spinner.f3d)
