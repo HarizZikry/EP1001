@@ -45,6 +45,12 @@ I can't really explain how it opens and closes so here is [visual](https://youtu
 - Extrude
 - New sketch on top face. Draw small rectangle, this is the handle. Dimension it then extrude
 
+## Step 5: Back
+
+I can't really explain so here is visual
+
+<img src="/EP1000/images/MyBox/mybox_back.png" style="width:120.25px;height:190px;">
+
 ## Why use parameters
 
 |    3mm thickness    |       5mm thickness        |
