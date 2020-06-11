@@ -1,14 +1,12 @@
 # Web Development
 
-We need to create our own webpage to document our progress in the module and for assignment. We are required to install a text editor and learn html.
+## Atom
 
-## Text Editors
-
-This is what we are going to use to add and edit stuff in our webpage. Our lecterer gave us  recommendations for text editor. I chose to use Atom as it an open-source github project and we are going to use github to publish our webpage. I find it simple to use and easy to learn.
+Atom is an open-source text and source code editor . It supports HTML, CSS, Markdown and etc. It works well with github. Atom was recommended by my lecturer. It is quite easy to use. You can create new files and open up existing projects in your computer. I enjoy using atom because it is simple and supports githib flavored markdown. I'm able to access all files in the github repository
 
 ## HTML
 
-Hpertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in web browser. All website are developed with HTML. I learned how to html through videos from [Jake Wright](https://www.youtube.com/watch?v=bWPMSSsVdPk) and [w3schools](https://www.w3schools.com). I find it easier to familarise with HTML as I took Computer Programming in year 1, you tell the program what to do.
+Hpertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in web browser. Most website are developed with HTML. I learned how to html through videos from [Jake Wright](https://www.youtube.com/watch?v=bWPMSSsVdPk) and [w3schools](https://www.w3schools.com). I find it easier to familarise with HTML as I took Computer Programming in year 1, you tell the program what to do.
 
 ## Github
 
