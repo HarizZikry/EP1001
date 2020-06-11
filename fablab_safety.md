@@ -1,27 +1,42 @@
 # Fablab Safety
 
-We went through powerpoint slides on fablab safety. Safety is taken seriously in the lab. We went through rules and regulation, some case studies, how to avoid dangerous senarios and what to do if things go south.
+## What to do in the event of emergency or fire
 
-## Rules and regulation
+- Stay calm, don't panic
+- Inform lecturer-in-charge or TSO
+  - If lecturer or TSO is not present, follow **3-step Emergency Procedure**
+    1. Call 995 for SCDF or 999 for Police
+    2. Instruct them to enter SP through Gate 1 (Main Entrance) along Dover road and provide location of emergency or fire
+    3. Inform Campus Security at 6772-1234
 
-Some important rules to take note of:
-- Do not tamper with safety devices and machine guard
-- Be alert
-- Know the location of emergency stop button
-- When operating machine tools, ensure others are not exposed to danger
+## Rules and Regulation
 
-## What to do in case of accident or fire
+Important rules:
 
-1. Don't panic
-2. inform lecturer or TSO
-- If there is no lecterer or TSO around, follow **3-step Emergency Procedure**
-  1. call 995
-  2. Instruct them to enter **Gate 1** (Main Entrance) along Dover Road.
-    - Provide location of incident
-  3. Inform Campus Security by calling **6772-1234** (all emergencies and incident reporting)
+- Students must be properly attired
+  - E.g. long pants, covered shoes, Tied hair, no loose-sleeved clothing/jewellery
+- Safe operating or work procedures must be practiced
+- Don't tamper with safety devices and machine guards
+- Be alert. Observe and abide all warning signs and safety notices
+- Seek help if you are in doubt
 
-## Safety Assessment
+**Safety Signs**
+It shows the type of hazards and personal protective equipment (PPE) to be worn
 
-This is a compulsory assessment for all users of Fablab@SP. We need to pass the assessment in order to enter the lab and operate the machines.
+<img src="/EP1000/images/safety_signs.png" style="width:300px;height:455px;"><br>
 
-Due to Circuit Breaker, safety assessment will be postponed until labs are open for use.
+**Safety Warning Placards**
+Usually hung on the machines. It shows the danger level, types of hazard and PPE to be worn when operating the machine. It also shows how to safely operate the machine.
+
+<img src="/EP1000/images/safety_placard.png" style="width:403.5px;height:320px;"><br>
+
+## HouseKeeping
+
+Pros:
+- Eliminate hazards, accident and fire risks
+- Creates Safe and conducive workplace
+- Ready to be used by the next person
+
+1. Return tools and PPE back to where they belong
+2. Clear away debris and chips off workplace after use. Brooms are provided
+3. Hang Safety Placards on the machines
