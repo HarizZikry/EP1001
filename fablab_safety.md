@@ -43,3 +43,26 @@ Usually hung on the machines. It shows the danger level, types of hazard and PPE
 1. Return tools and PPE back to where they belong
 2. Clear away debris and chips off workplace after use. Brooms are provided
 3. Hang Safety Placards on the machines
+
+## My Toolbox
+
+1. Screwdriver
+2. Hex key set
+3. Pliers
+  - cutter
+  - needle-nose
+  - combination
+4. Hacksaw
+5. tape
+  - duct tape
+  - electrical tape
+6. Cable ties
+7. Hammer
+8. Measuring tools
+  - measuring tape
+  - level tool
+9. Box cutter
+10. files
+11. Electric drill
+12. gloves
+13. safety goggles
