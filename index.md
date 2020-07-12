@@ -14,5 +14,5 @@ This page was created for me to record what I have done for this module and prog
 - [Computer Aided Design](cad.md)
 - [3D Printing](3dprinting.md)
 - [Computer Controlled Cutting]()
-- [Embedded Programming]()
+- [Embedded Programming](embeddedprogramming.md)
 # [Final Project]()
