@@ -13,3 +13,7 @@ I decided to go with the Slide Door system instead of Auger system because it is
 - Servo FS90 9g
 - LCD 1602 2x20 with I2C
 - DC 9V power adapter/9V battery
+
+The electronics part is quite easy because there is only output devices connected. The LCD will just display the feeding time. I had to learn how to control the movement of the servo motor and how to use a timer. I will be using milli(s) function as the timer. Once the arduino powers up, the milli(s) will start counting. To activate the servo motor, I will use the if function and then once the servo has been activated the timer will reset. This will run in a loop.
+
+To connect it all together, I use a mini Breadboard because it is easy to connect and there is no soldering required. 
