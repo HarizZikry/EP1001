@@ -25,7 +25,7 @@ Next, I need to do coding. First I add the servo code. I referred to the example
 
 <a href="images/FinalProject/tetrabytes_code.jpg"><img src="/EP1000/images/FinalProject/tetrabytes_code.png" style="width:324px;height:438px;"></a>
 
-<video width="380" height="280" controls=""><source src="EP1000/images/circuitdemo.mp4" type="video/mp4"></video>
+<video width="380" height="280" controls=""><source src="images/circuitdemo.mp4" type="video/mp4"></video>
 
 **Design**
 
