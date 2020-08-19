@@ -23,7 +23,9 @@ To power it up I need to connect the battery holder to breadboard. I need to sol
 
 Next, I need to do coding. First I add the servo code. I referred to the example code on arduino and some online tutorials. Then I add the milli(s) and if function. Next I add the LCD code. The code was quite manageable, it took a few tries to set the servo position and the timings. Here is the end results:
 
-<a href="images/FinalProject/tetrabytes_code.jpg"><img src="/EP1000/images/FinalProject/tetrabytes_code.png" style="width:324px;height:438px;"></a> <video width="380" height="280" controls=""><source src="EP1000/images/circuitdemo.mp4" type="video/mp4"></video>
+<a href="images/FinalProject/tetrabytes_code.jpg"><img src="/EP1000/images/FinalProject/tetrabytes_code.png" style="width:324px;height:438px;"></a>
+
+<video width="380" height="280" control><source src="EP1000/images/circuitdemo.mp4" type="video/mp4"></video>
 
 **Design**
 
@@ -60,3 +62,7 @@ I decided to create 1 big screw as the threads will big enough to 3D print.
 I first had to build the case, I used hot glue to stick them together. I did not glue one of the side to the case because I want to still be able to access the electronics. Then I stick the hopper using super glue and use mounting tape to stick the mount. I hot glued the sliding door to the servo hand. I used double sided tape to stick the servo and velcro straps for the arduino and battery holder so that I can still access them. Here are some photos of assembly:
 
 <a href="images/FinalProject/case.jpg"><img src="/EP1000/images/FinalProject/case.jpg" style="width:230.4px;height:172.8px;"></a><a href="images/FinalProject/hopper.jpg"><img src="/EP1000/images/FinalProject/hopper.jpg" style="width:230.4px;height:172.8px;"></a><a href="images/FinalProject/slidedoor.jpg"><img src="/EP1000/images/FinalProject/slidedoor.jpg" style="width:230.4px;height:172.8px;"></a><a href="images/FinalProject/stick_mount.jpg"><img src="/EP1000/images/FinalProject/stick_mount.jpg" style="width:230.4px;height:172.8px;"></a><a href="images/FinalProject/electronics.jpg"><img src="/EP1000/images/FinalProject/electronics.jpg" style="width:230.4px;height:172.8pxpx;"></a>
+
+### Here are the files
+
+-
