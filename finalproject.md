@@ -13,7 +13,7 @@ I went with the sliding door system as it is simple and easy to delivery the foo
 - LCD 1602 2x20 with I2C
 - Battery holder
 
-##Coding and electronics
+## Coding and electronics
 
 The electronics part is quite easy because there is only output devices connected. The LCD will just display the feeding time. I had to learn how to control the movement of the servo motor and how to use a timer. I will be using milli(s) function as the timer. Once the arduino powers up, the milli(s) will start counting. To activate the servo motor, I will use the if function and then once the servo has been activated the timer will reset. This will run in a loop.
 
