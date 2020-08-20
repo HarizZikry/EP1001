@@ -67,8 +67,8 @@ I first had to build the case, I used hot glue to stick them together. I did not
 
 ### Here are the files
 
-- [](/Fusion360/Tetrabytes.f3d)
-- [](/Fusion360/Tetrabytes/Tetrabytes.INO)
-- [](/Fusion360/UM2_boltV2.gcode)
-- [](/Fusion360/UM2_hopperV2.gcode)
-- [](/Fusion360/UM2_mountV2.gcode)
+- [Tetrabytes.f3d](/Fusion360/Tetrabytes.f3d)
+- [Tetrabytes.INO](/Fusion360/Tetrabytes/Tetrabytes.INO)
+- [UM2_boltV2.gcode](/Fusion360/UM2_boltV2.gcode)
+- [UM2_hopperV2.gcode](/Fusion360/UM2_hopperV2.gcode)
+- [UM2_mountV2.gcode](/Fusion360/UM2_mountV2.gcode)
