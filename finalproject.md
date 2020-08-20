@@ -76,3 +76,7 @@ I'm happy with the final result, it looks good.
 - [UM2_boltV2.gcode](/Fusion360/UM2_boltV2.gcode)
 - [UM2_hopperV2.gcode](/Fusion360/UM2_hopperV2.gcode)
 - [UM2_mountV2.gcode](/Fusion360/UM2_mountV2.gcode)
+
+### Bill-of-Materials
+
+<a href="images/FinalProject/BOM.png"><img src="/EP1000/images/FinalProject/BOM.png" style="width:373.5px;height:150.5pxpx;"></a>
