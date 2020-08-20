@@ -39,15 +39,15 @@ The case dimension is 160mm x 80mm x 100mm. I had to create an opening on the di
 
 I decided to put a hinge on the food cover to make it more accessible. Next, I need to make openings for the LCD display and servo motor. I took down the dimensions of the components then design. The opening for servo was abit difficult to create but I think I got it right.
 
-<a href="images/FinalProject/Tetrabytes_Opening.png"><img src="/EP1000/images/FinalProject/Tetrabytes_Opening.png" style="width:467.5px;height:364.5px;"></a>
+<a href="images/FinalProject/Tetrabytes_Opening.png"><img src="/EP1000/images/FinalProject/Tetrabytes_Opening.png" style="width:233.8px;height:182.3px;"></a>
 
 I export the case and hatch door as dxf and compiled them into 1 dxf file using Inkscape. I also save the hopper as stl file and slice it for 3D printing using Cura. I realised that the hopper was too complex and long for 3D printing so I rescale/redesign the hopper to reduce time. I also had to make changes to the case as now the hopper will occupy a smaller area.
 
 Here is the  final hopper and case:
 
-<a href="images/FinalProject/hopperV2.jpg"><img src="/EP1000/images/FinalProject/hopperV2.jpg" style="width:172.8px;height:230.4px;"></a><a href="images/FinalProject/case1.jpg"><img src="/EP1000/images/FinalProject/case1.jpg" style="width:172.8px;height:230.4px;"></a>
+<a href="images/FinalProject/hopperV2.jpg"><img src="/EP1000/images/FinalProject/hopperV2.jpg" style="width:230.4px;height:172.8px;"></a><a href="images/FinalProject/case1.jpg"><img src="/EP1000/images/FinalProject/case1.jpg" style="width:230.4px;height:172.8px;"></a>
 
-For the hinge, I found it on [](thingeverse.com) as it was quite difficult to create one. This [guy's](https://www.thingiverse.com/thing:1096475) hinge is pretty smooth and popular.
+For the hinge, I found it on [](thingeverse.com) as it was quite difficult to create one. This [guy's](https://www.thingiverse.com/thing:1096475) hinge is pretty smooth and popular. Do check it out.
 
 Next I need to create a mount for the case to sit on the fish tank. I made a clamp-like mount using screws to tighten. I got it ready for 3D printing. However, it did not turn out great. The threads I created are gone because of the supports. I realised that the screw and threads were too small so the 3D printer was not able to accurately print it, this means that I need rescale the mount and screw threads.
 
@@ -67,4 +67,8 @@ I first had to build the case, I used hot glue to stick them together. I did not
 
 ### Here are the files
 
--
+- [](/Fusion360/Tetrabytes.f3d)
+- [](/Fusion360/Tetrabytes/Tetrabytes.INO)
+- [](/Fusion360/UM2_boltV2.gcode)
+- [](/Fusion360/UM2_hopperV2.gcode)
+- [](/Fusion360/UM2_mountV2.gcode)
