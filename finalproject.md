@@ -43,7 +43,7 @@ I export the case and hatch door as dxf and compiled them into 1 dxf file using 
 
 Here is the  final hopper and case:
 
-<a href="images/FinalProject/hopperV2.jpg"><img src="/EP1000/images/FinalProject/hopperV2.jpg" style="width:230.4px;height:172.8px;"></a><a href="images/FinalProject/case1.jpg"><img src="/EP1000/images/FinalProject/case1.jpg" style="width:230.4px;height:172.8px;"></a>
+<a href="images/FinalProject/hopperV2.jpg"><img src="/EP1000/images/FinalProject/hopperV2.jpg" style="width:172.8px;height:230.4px;"></a> <a href="images/FinalProject/case1.jpg"><img src="/EP1000/images/FinalProject/case1.jpg" style="width:230.4px;height:172.8px;"></a>
 
 For the hinge, I found it on [](thingeverse.com) as it was quite difficult to create one. This [guy's](https://www.thingiverse.com/thing:1096475) hinge is pretty smooth and popular. Do check it out.
 
@@ -53,7 +53,7 @@ Next I need to create a mount for the case to sit on the fish tank. I made a cla
 
 I decided to create 1 big screw as the threads will big enough to 3D print.
 
-<a href="images/FinalProject/mountNboltV2.jpg"><img src="/EP1000/images/FinalProject/mountNboltV2.jpg" style="width:230.4px;height:172.8px;"></a><a href="images/FinalProject/boltV2.jpg"><img src="/EP1000/images/FinalProject/boltV2.jpg" style="width:230.4px;height:172.8px;"></a>
+<a href="images/FinalProject/mountNboltV2.jpg"><img src="/EP1000/images/FinalProject/mountNboltV2.jpg" style="width:230.4px;height:172.8px;"></a> <a href="images/FinalProject/boltV2.jpg"><img src="/EP1000/images/FinalProject/boltV2.jpg" style="width:230.4px;height:172.8px;"></a>
 
 ##Assembly
 
@@ -64,6 +64,8 @@ I first had to build the case, I used hot glue to stick them together. I did not
 <a href="images/FinalProject/stick_mount.jpg"><img src="/EP1000/images/FinalProject/stick_mount.jpg" style="width:230.4px;height:172.8px;"></a> <a href="images/FinalProject/electronics.jpg"><img src="/EP1000/images/FinalProject/electronics.jpg" style="width:230.4px;height:172.8pxpx;"></a>
 
 ## Final Product
+
+I'm happy with the final result, it looks good.
 
 <a href="images/FinalProject/finalbuild.jpg"><img src="/EP1000/images/FinalProject/finalbuild.jpg" style="width:230.4px;height:172.8pxpx;"></a> <video width="380" height="280" controls=""><source src="images/FinalProject/action.mp4" type="video/mp4"></video>
 
