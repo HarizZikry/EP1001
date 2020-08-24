@@ -16,7 +16,7 @@ void setup() {
   lcd.setCursor(0,0);
   lcd.print("Feeding Time...");       //display "Feeding time"
   lcd.setCursor(2,1);
-  lcd.print("Every 20 secs");         //display time
+  lcd.print("Every 10 secs");         //display time
   Servo1.write(140);                  //set initial pos of servo
 }
 
@@ -26,7 +26,7 @@ void loop() {
    if (currentTime - previousTime >= eventInterval) {
     Serial.println("food");
     Servo1.write(140);
-    delay(20000);                     //set interval
+    delay(10000);                     //set interval
     Servo1.write(pos);
     delay(100);
   
