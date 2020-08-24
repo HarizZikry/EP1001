@@ -12,7 +12,7 @@ Next, I create a new component and sketch for side 1. After sketching, I extrude
 
 after that, I create midplane for the 3 sides then mirror the sides according to midplane. Next, I combine all the sides to complete the box. Here is the result:
 
-<a href="images/lasercut/box_combine.png"><img src="/EP1000/images/lasercut/box_combine.png" style="width:324px;height:325.5px;"></a> <a href="images/lasercut/box_combine.png"><img src="/EP1000/images/lasercut/box_combine.png" style="width:324px;height:325.5px;"></a>
+<a href="images/lasercut/box_combine.png"><img src="/EP1000/images/lasercut/box_combine.png" style="width:324px;height:325.5px;"></a>
 
 Next I need to save sides as dxf. I will create a new sketch for the 3 sides then save it as dxf. After doing so, I will import the files in inkscape then save it as 1 dxf file. This is to prepare it for laser cutting. Here it is:
 
@@ -32,6 +32,6 @@ After doing so, I save the sketches as dxf and create a new dxf file with all th
 
 <a href="images/lasercut/KT_dxf.png"><img src="/EP1000/images/lasercut/KT_dxf.png" style="width:480px;height:270px;"></a>
 
-Heres how it turned out:
+Heres how it turned out, I'm happy eith the result. It looks cool:
 
-<a href="images/lasercut/box1.png"><img src="/EP1000/images/lasercut/box1.png" style="width:230.4px;height:172.8px;"></a> <a href="images/lasercut/box2.png"><img src="/EP1000/images/lasercut/box2.png" style="width:172.8px;height:230.4px;"></a>
+<a href="images/lasercut/box1.jpg"><img src="/EP1000/images/lasercut/box1.jpg" style="width:230.4px;height:172.8px;"></a> <a href="images/lasercut/box2.jpg"><img src="/EP1000/images/lasercut/box2.jpg" style="width:172.8px;height:230.4px;"></a>
