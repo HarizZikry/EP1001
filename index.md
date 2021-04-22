@@ -1,4 +1,4 @@
-# EP1000
+# EP1001
 # Welcome to my page
 This page was created for me to record what I have done for this module and progress made. It is also to act as a reference for future projects. I will share more about me and what will be covered in this module.
 # Who am I?
