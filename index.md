@@ -5,14 +5,14 @@ This page was created for me to record what I have done for this module and prog
 
 |        |                                                 |
 |--------|:------------------------------------------------|
-| <img src="/EP1000/images/profilepic.jpg" style="width:200px;height:200px;">  | 	My name is Hariz from DME/2A/06.<br>My telegram ID is H4r1zz. I stay in Pasir Ris |
+| <img src="/EP1000/images/profilepic.jpg" style="width:200px;height:200px;">  | 	My name is Hariz from DME/3A/06.<br>My telegram ID is H4r1zz. I stay in Pasir Ris |
 
 # Topics that will be covered
-- [Fablab Safety](fablab_safety.md)
-- [Project Development](project_development.md)
-- [Web Development](web_development.md)
-- [Computer Aided Design](cad.md)
-- [3D Printing](3dprinting.md)
-- [Computer Controlled Cutting](lasercut.md)
-- [Embedded Programming](embeddedprogramming.md)
-# [Final Project](finalproject.md)
+- [Electronics Production](e_production.md)
+- [Electronics Design](e_design.md)
+- [2D Computer Controlled Machining](2d_ccm.md)
+- [Embedded Programming](embprogramming.md)
+- [Molding & Casting](m_c.md)
+- [3D Machining](3d_mach.md)
+- [Interface & Applications Programming](iap.md)
+# [Project](project.md)
