@@ -36,10 +36,10 @@ We were tasked to fabricate FTDI and FTDI-to-UPDI interface board. First we need
 5. Start the operation
 6. Need to vacuum the copper dust  so that it does not interfere with cutting.
 
-<img src="/EP1001/Images/eproduction/IMG_20210517_174225.jpg" style="width:1152px;height:648px;">
+<img src="/EP1001/Images/eproduction/IMG_20210517_174225.jpg" style="width:576px;height:324px;">
 
-<img src="/EP1001/Images/eproduction/IMG_20210517_174234.jpg" style="width:1152px;height:648px;">
+<img src="/EP1001/Images/eproduction/IMG_20210517_174234.jpg" style="width:576px;height:324px;">
 
-<img src="/EP1001/Images/eproduction/IMG_20210517_175535.jpg" style="width:1152px;height:648px;">
+<img src="/EP1001/Images/eproduction/IMG_20210517_175535.jpg" style="width:576px;height:324px;">
 
 After milling the board, it is time to solder components. Unfortunately, due to covid restrictions, I was not able to solder the components.
