@@ -10,7 +10,7 @@ Before starting, I need to cover the workspace with tissue as it gets messy. I a
 
 After that, I mixed the compounds well before putting it in the vacuum chamber. This will remove any bubbles in the compound, ensuring that the mold surface would be smooth.
 
-<a href="/EP1001/Images/molding/WhatsApp Image 2021-08-01 at 15.20.16 (1).jpeg"><img src="/EP1001/Images/molding/WhatsApp Image 2021-08-01 at 15.34.42 (1).jpeg" style="width:576px;height:324px;"></a>
+<a href="/EP1001/Images/molding/WhatsApp Image 2021-08-01 at 15.20.16 (1).jpeg"><img src="/EP1001/Images/molding/WhatsApp Image 2021-08-01 at 15.20.16 (1).jpeg" style="width:576px;height:324px;"></a>
 
 <a href="/EP1001/Images/molding/WhatsApp Image 2021-08-01 at 15.34.42 (2).jpeg"><img src="/EP1001/Images/molding/WhatsApp Image 2021-08-01 at 15.34.42 (2).jpeg" style="width:576px;height:324px;"></a>
 
