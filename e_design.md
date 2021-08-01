@@ -14,12 +14,24 @@ Components I used:
 - 1x3 pinhead
 - LED
 
+  <a href="/EP1001/Images/edesign/Screenshot (69).png"><img src="/EP1001/Images/edesign/Screenshot (69).png" style="width:576px;height:324px;"></a>
+
 Once done, I can move on to board layout. This is where I will create channels to connect the components. After creating channels, it's time for the outline of the board. I'll need to change the layer to milling before adding it.
+
+  <a href="/EP1001/Images/edesign/Screenshot (68).png"><img src="/EP1001/Images/edesign/Screenshot (68).png" style="width:576px;height:324px;"></a>
 
 After completing the board layout and schematic, I need to check for any errors like airwire.
 
 Next is to generate the g-code. ULP > pcb-code-setup. Here are the settings I used:
 
+  <a href="/EP1001/Images/edesign/Screenshot (150).png"><img src="/EP1001/Images/edesign/Screenshot (150).png" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/edesign/Screenshot (151).png"><img src="/EP1001/Images/edesign/Screenshot (151).png" style="width:576px;height:324px;"></a>
+
 The g-codes file can be obtained from the project folder.
+
+  <a href="/EP1001/Images/edesign/Screenshot (152).png"><img src="/EP1001/Images/edesign/Screenshot (152).png" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/edesign/Screenshot (160).png"><img src="/EP1001/Images/edesign/Screenshot (160).png" style="width:576px;height:324px;"></a>
 
 Now it's ready for CNC milling.
