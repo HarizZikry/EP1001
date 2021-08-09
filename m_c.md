@@ -28,7 +28,7 @@ After degassing, I poured the compound into the mold. Ensure that the entire mol
 
 The mold looks alright. the surface felt grainy, this could be due to the resin used. I used the Mold Star 30 so I think I would be able to obtain better finishing if I used the Mold Star 300.
 
-<a href="/EP1001/Images/molding/IMG_20210802_163839.jpg"><img src="/EP1001/Images/molding/IMG_20210802_163839.jpg" style="width:576px;height:324px;"></a>
+<a href="/EP1001/Images/molding/IMG_20210802_163839.jpg"><img src="/EP1001/Images/molding/IMG_20210802_163839.jpg" style="width:324px;height:576px;"></a>
 
 <a href="/EP1001/Images/molding/IMG_20210802_163843.jpg"><img src="/EP1001/Images/molding/IMG_20210802_163843.jpg" style="width:576px;height:324px;"></a>
 
