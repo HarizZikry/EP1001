@@ -52,7 +52,7 @@ Just like molding:
 
 3. Degas the mixture
 
-<a href="/EP1001/Images/casting/WhatsApp Image 2021-08-09 at 21.32.36.jpeg"><img src="/EP1001/Images/casting/WhatsApp Image 2021-08-09 at 21.32.36.jpeg" style="width:576px;height:324px;"></a>
+<a href="/EP1001/Images/casting/WhatsApp Image 2021-08-09 at 21.32.36.jpeg"><img src="/EP1001/Images/casting/WhatsApp Image 2021-08-09 at 21.32.36.jpeg" style="width:324px;height:576px;"></a>
 
 <a href="/EP1001/Images/casting/WhatsApp Image 2021-08-09 at 21.32.37.jpeg"><img src="/EP1001/Images/casting/WhatsApp Image 2021-08-09 at 21.32.37.jpeg" style="width:576px;height:324px;"></a>
 
