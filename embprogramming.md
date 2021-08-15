@@ -22,4 +22,4 @@ Once done, I run "burn bootloader" first before upload the sketch to the hello b
 
 Here is the working program:
 
-<video width="380" height="280" controls=""><source src="EP1001/Images/eprog/video_20210815_173613.mp4" type="video/mp4"></video>
+<video width="380" height="280" controls=""><source src="/EP1001/Images/eprog/video_20210815_173613.mp4" type="video/mp4"></video>
