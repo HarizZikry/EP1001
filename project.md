@@ -2,7 +2,7 @@
 
 I decided to make a USB Handbrake. This can be used with a racing simulator, It will be connected to the computer through USB. Here is the concept diagram and prototype:
 
-  <a href="/EP1001/Images/project/concept.jpg"><img src="/EP1001/Images/eprog/concept.jpg" style="width:324px;height:576px;"></a>
+  <a href="/EP1001/Images/project/concept.jpg"><img src="/EP1001/Images/project/concept.jpg" style="width:324px;height:576px;"></a>
 
   <a href="/EP1001/Images/project/IMG_20210815_210457.jpg"><img src="/EP1001/Images/project/IMG_20210815_210457.jpg" style="width:324px;height:576px;"></a>
 
