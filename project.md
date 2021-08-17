@@ -79,3 +79,11 @@ The board dimension is 26mm by 36mm. When milling the board, make sure to use of
 I design a box for the PCB board to make it look clean. Since there is an LED on the board, I decided to make a hole on the cover. I'll use a plastic sheet to cover it up so that the LED will be visible
 
   <a href="/EP1001/Images/project/Screenshot (198).png"><img src="/EP1001/Images/project/Screenshot (198).png" style="width:576px;height:324px;"></a>
+
+## Assembly
+
+  <a href="/EP1001/Images/project/IMG_20210816_215611.jpg"><img src="/EP1001/Images/project/IMG_20210816_215611.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210816_215604.jpg"><img src="/EP1001/Images/project/IMG_20210816_215604.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210816_215618.jpg"><img src="/EP1001/Images/project/IMG_20210816_215618.jpg" style="width:576px;height:324px;"></a>
