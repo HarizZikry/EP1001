@@ -48,3 +48,25 @@ I used the Spur gear tool in add ons to create the gearset. The bigger gear has 
   <a href="/EP1001/Images/project/Screenshot (195).png"><img src="/EP1001/Images/project/Screenshot (195).png" style="width:576px;height:324px;"></a>
 
 This is a mount for the potentiometer so that it stays in place. It will be attached to the smaller gear. The slot is clearance for the small notch on the potentiometer.
+
+## CNC Milling
+
+  <a href="/EP1001/Images/project/IMG_20210811_093047.jpg"><img src="/EP1001/Images/project/IMG_20210811_093047.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210812_140717.jpg"><img src="/EP1001/Images/project/IMG_20210812_140717.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210812_141402.jpg"><img src="/EP1001/Images/project/IMG_20210812_141402.jpg" style="width:576px;height:324px;"></a>
+
+## PCB board
+
+  <a href="/EP1001/Images/project/Screenshot (197).png"><img src="/EP1001/Images/project/Screenshot (197).png" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/Screenshot (196).png"><img src="/EP1001/Images/project/Screenshot (196).png" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210813_103354.jpg"><img src="/EP1001/Images/project/IMG_20210813_103354.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210813_104050.jpg"><img src="/EP1001/Images/project/IMG_20210813_104050.jpg" style="width:576px;height:324px;"></a>
+
+## 3D Prints
+
+  <a href="/EP1001/Images/project/IMG_20210810_130041.jpg"><img src="/EP1001/Images/project/IMG_20210810_130041.jpg" style="width:324px;height:576px;"></a>
