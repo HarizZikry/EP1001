@@ -146,4 +146,18 @@ I used fasteners to assemble the handbrake as it needs to be strong. I also used
 
 ## Files
 
-- [Tetrabytes.f3d](/Fusion360/Tetrabytes.f3d)
+- [Handbrake.f3d](/Fusion360/Handbrake.f3d)
+- [LimitBox.f3d](/Fusion360/LimitBox.f3d)
+- [PCB box.f3d](/Fusion360/PCB box.f3d)
+- [handle.dxf](/Fusion360/handle.dxf)
+- [baseplate.dxf](/Fusion360/baseplate.dxf)
+- [plate.dxf](/Fusion360/late.dxf)
+- [Handbrake.top.etch.gcode](/Fusion360/Handbrake.top.etch.gcode)
+- [Handbrake.top.mill.gcode](/Fusion360/Handbrake.top.mill.gcode)
+- [handle.stl](/Fusion360/handle.stl)
+- [LimitBox.stl](/Fusion360/LimitBox.stl
+  )- [pcbbase.stl](/Fusion360/pcbbase.stl)
+- [pcbtop.stl](/Fusion360/pcbtop.stl)
+- [potstand.stl](/Fusion360/potstand.stl)
+- [Spur Gear (13 teeth).stl](/Fusion360/Spur Gear (13 teeth).stl)
+- [Spur Gear (26 teeth).stl](/Fusion360/Spur Gear (26 teeth).stl)
