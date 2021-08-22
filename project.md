@@ -92,9 +92,15 @@ I design a box for the PCB board to make it look clean. Since there is an LED on
 
 ## Limit Switch mount
 
+  <a href="/EP1001/Images/project/Screenshot (199).png"><img src="/EP1001/Images/project/Screenshot (199).png" style="width:576px;height:324px;"></a>
+
   <a href="/EP1001/Images/project/IMG_20210822_184106.jpg"><img src="/EP1001/Images/project/IMG_20210822_184106.jpg" style="width:576px;height:324px;"></a>
 
   <a href="/EP1001/Images/project/IMG_20210822_184414.jpg"><img src="/EP1001/Images/project/IMG_20210822_184414.jpg" style="width:576px;height:324px;"></a>
+
+## Coding
+
+  <a href="/EP1001/Images/project/Screenshot (200).png"><img src="/EP1001/Images/project/Screenshot (200).png" style="width:576px;height:324px;"></a>
 
 ## Assembly
 
