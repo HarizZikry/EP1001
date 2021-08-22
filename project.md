@@ -2,9 +2,7 @@
 
 I decided to make a USB Handbrake. This can be used with a racing simulator, It will be connected to the computer through USB. Here is the concept diagram and prototype:
 
-  <a href="/EP1001/Images/project/concept.jpg"><img src="/EP1001/Images/project/concept.jpg" style="width:324px;height:576px;"></a>
-
-  <a href="/EP1001/Images/project/IMG_20210815_210457.jpg"><img src="/EP1001/Images/project/IMG_20210815_210457.jpg" style="width:324px;height:576px;"></a>
+  <a href="/EP1001/Images/project/concept.jpg"><img src="/EP1001/Images/project/concept.jpg" style="width:324px;height:576px;"></a> <a href="/EP1001/Images/project/IMG_20210815_210457.jpg"><img src="/EP1001/Images/project/IMG_20210815_210457.jpg" style="width:324px;height:576px;"></a>
 
 Components I need:
 1. 10K potentiometer
@@ -58,6 +56,8 @@ This is a mount for the potentiometer so that it stays in place. It will be atta
 
 ## CNC Milling
 
+I'm using CNC milling to fabricate the main frame.
+
   <a href="/EP1001/Images/project/IMG_20210811_093047.jpg"><img src="/EP1001/Images/project/IMG_20210811_093047.jpg" style="width:576px;height:324px;"></a>
 
   <a href="/EP1001/Images/project/IMG_20210812_140717.jpg"><img src="/EP1001/Images/project/IMG_20210812_140717.jpg" style="width:576px;height:324px;"></a>
@@ -92,6 +92,8 @@ I design a box for the PCB board to make it look clean. Since there is an LED on
 
 ## Limit Switch mount
 
+The limit switch would need to seat at the maximum travel of the handle
+
   <a href="/EP1001/Images/project/Screenshot (199).png"><img src="/EP1001/Images/project/Screenshot (199).png" style="width:576px;height:324px;"></a>
 
   <a href="/EP1001/Images/project/IMG_20210822_184106.jpg"><img src="/EP1001/Images/project/IMG_20210822_184106.jpg" style="width:576px;height:324px;"></a>
@@ -100,9 +102,15 @@ I design a box for the PCB board to make it look clean. Since there is an LED on
 
 ## Coding
 
+The original plan was to use interfacing programming to read out the values of the potentiometer. It can be represented with a simple graph. However, I forgot to add a FTDI header to my PCB board. I'm not able to send information from the board to software.
+
+When the handle reaches its maximum travel, it will actuate the limit switch. Limit switch will activate the flashing led. This is to show that it has reach its maximum travel.
+
   <a href="/EP1001/Images/project/Screenshot (200).png"><img src="/EP1001/Images/project/Screenshot (200).png" style="width:576px;height:324px;"></a>
 
 ## Assembly
+
+I used fasteners to assemble the handbrake as it needs to be strong. I also used hot glue to tidy up the cables. For the force feedback, I used a thick rubberband pressed between washers. I wrapped the top of the handle with tape to make the grip comfortable to hold.  
 
   <a href="/EP1001/Images/project/IMG_20210816_215611.jpg"><img src="/EP1001/Images/project/IMG_20210816_215611.jpg" style="width:576px;height:324px;"></a>
 
@@ -126,8 +134,16 @@ I design a box for the PCB board to make it look clean. Since there is an LED on
 
 <video width="380" height="280" controls=""><source src="/EP1001/Images/project/video_20210822_202609_edit.mp4" type="video/mp4"></video>
 
-## Presentaion
+## Presentation
 
   <a href="/EP1001/Images/project/Handbrake presentation.png"><img src="/EP1001/Images/project/Handbrake presentation.png" style="width:576px;height:324px;"></a>
 
 <video width="380" height="280" controls=""><source src="/EP1001/Images/project/USB handbrake.mp4" type="video/mp4"></video>
+
+## BOM
+
+  <a href="/EP1001/Images/project/Screenshot (201).png"><img src="/EP1001/Images/project/Screenshot (201).png" style="width:611.5px;height:348.5px;"></a>
+
+## Files
+
+- [Tetrabytes.f3d](/Fusion360/Tetrabytes.f3d)
