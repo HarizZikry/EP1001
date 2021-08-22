@@ -44,13 +44,17 @@ I'm using the gearset to help transmit the movement of handle to the potentiomet
 
 I used the Spur gear tool in add ons to create the gearset. The bigger gear has 26 teeth with pcd of 39mm. The smaller gear has 13 teeth with pcd of 19.5mm
 
-## Mount Potentiometer
+## Potentiometer Mount
 
   <a href="/EP1001/Images/project/Screenshot (194).png"><img src="/EP1001/Images/project/Screenshot (194).png" style="width:576px;height:324px;"></a>
 
   <a href="/EP1001/Images/project/Screenshot (195).png"><img src="/EP1001/Images/project/Screenshot (195).png" style="width:576px;height:324px;"></a>
 
 This is a mount for the potentiometer so that it stays in place. It will be attached to the smaller gear. The slot is clearance for the small notch on the potentiometer.
+
+  <a href="/EP1001/Images/project/IMG_20210822_184056.jpg"><img src="/EP1001/Images/project/IMG_20210822_184056.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210822_184424.jpg"><img src="/EP1001/Images/project/IMG_20210822_184424.jpg" style="width:576px;height:324px;"></a>
 
 ## CNC Milling
 
@@ -74,11 +78,23 @@ The board dimension is 26mm by 36mm. When milling the board, make sure to use of
 
   <a href="/EP1001/Images/project/IMG_20210813_104050.jpg"><img src="/EP1001/Images/project/IMG_20210813_104050.jpg" style="width:576px;height:324px;"></a>
 
+  <a href="/EP1001/Images/project/IMG_20210822_184212.jpg"><img src="/EP1001/Images/project/IMG_20210822_184212.jpg" style="width:576px;height:324px;"></a>
+
 ## PCB box
 
 I design a box for the PCB board to make it look clean. Since there is an LED on the board, I decided to make a hole on the cover. I'll use a plastic sheet to cover it up so that the LED will be visible
 
   <a href="/EP1001/Images/project/Screenshot (198).png"><img src="/EP1001/Images/project/Screenshot (198).png" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210822_184134.jpg"><img src="/EP1001/Images/project/IMG_20210822_184134.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210822_184449.jpg"><img src="/EP1001/Images/project/IMG_20210822_184449.jpg" style="width:576px;height:324px;"></a>
+
+## Limit Switch mount
+
+  <a href="/EP1001/Images/project/IMG_20210822_184106.jpg"><img src="/EP1001/Images/project/IMG_20210822_184106.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210822_184414.jpg"><img src="/EP1001/Images/project/IMG_20210822_184414.jpg" style="width:576px;height:324px;"></a>
 
 ## Assembly
 
@@ -86,4 +102,16 @@ I design a box for the PCB board to make it look clean. Since there is an LED on
 
   <a href="/EP1001/Images/project/IMG_20210816_215604.jpg"><img src="/EP1001/Images/project/IMG_20210816_215604.jpg" style="width:576px;height:324px;"></a>
 
-  <a href="/EP1001/Images/project/IMG_20210816_215618.jpg"><img src="/EP1001/Images/project/IMG_20210816_215618.jpg" style="width:576px;height:324px;"></a>
+  <a href="/EP1001/Images/project/IMG_20210822_183953.jpg"><img src="/EP1001/Images/project/IMG_20210822_183953.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210822_190752.jpg"><img src="/EP1001/Images/project/IMG_20210822_190752.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210822_193522.jpg"><img src="/EP1001/Images/project/IMG_20210822_193522.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210822_184727.jpg"><img src="/EP1001/Images/project/IMG_20210822_184727.jpg" style="width:576px;height:324px;"></a>
+
+## Hero Shots
+
+  <a href="/EP1001/Images/project/IMG_20210822_194544.jpg"><img src="/EP1001/Images/project/IMG_20210822_194544.jpg" style="width:576px;height:324px;"></a>
+
+  <a href="/EP1001/Images/project/IMG_20210822_194538.jpg"><img src="/EP1001/Images/project/IMG_20210822_194538.jpg" style="width:576px;height:324px;"></a>
