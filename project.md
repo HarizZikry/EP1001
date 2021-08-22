@@ -121,3 +121,7 @@ I design a box for the PCB board to make it look clean. Since there is an LED on
   <a href="/EP1001/Images/project/IMG_20210822_194544.jpg"><img src="/EP1001/Images/project/IMG_20210822_194544.jpg" style="width:576px;height:324px;"></a>
 
   <a href="/EP1001/Images/project/IMG_20210822_194538.jpg"><img src="/EP1001/Images/project/IMG_20210822_194538.jpg" style="width:576px;height:324px;"></a>
+
+<video width="380" height="280" controls=""><source src="/EP1001/Images/project/video_20210822_202623_edit.mp4" type="video/mp4"></video>
+
+<video width="380" height="280" controls=""><source src="/EP1001/Images/project/video_20210822_202609_edit.mp4" type="video/mp4"></video>
