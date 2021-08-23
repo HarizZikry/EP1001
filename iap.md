@@ -2,7 +2,7 @@
 
 I used an example from Arduino to see how interfacing works. First I need to install a software called Processing. It is similar to Arduino IDE. There will be 2 codes, processing is for computer input and Arduino IDE for PCB board output.
 
-(Physical Pixel)[https://www.arduino.cc/en/Tutorial/BuiltInExamples/PhysicalPixel]
+[Physical Pixel](https://www.arduino.cc/en/Tutorial/BuiltInExamples/PhysicalPixel)
 
 Next, coding for Arduino. I need to include SoftwareSerial library to link the PCB to computer. Define RX and TX. I uploaded it using UPDI programmer. Once done, I will remove the UPDI and connect the PCB directly to FTDI.
 
