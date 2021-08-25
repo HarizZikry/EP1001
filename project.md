@@ -102,7 +102,7 @@ The limit switch would need to seat at the maximum travel of the handle
 
 ## Coding
 
-The original plan was to use interfacing programming to read out the values of the potentiometer. It can be represented with a simple graph. However, I forgot to add a FTDI header to my PCB board. I'm not able to send information from the board to software.
+The original plan was to use interfacing programming to read out the values of the potentiometer. It can be represented with a simple graph. However, I forgot to add a FTDI header to my PCB board. I'm not able to send information from the board to software. I'm not able to read the data from the potentiometer.
 
 When the handle reaches its maximum travel, it will actuate the limit switch. Limit switch will activate the flashing led. This is to show that it has reach its maximum travel.
 
